@@ -1,0 +1,7 @@
+done with updating events details in index page
+
+
+
+
+carousel for events list in index sheet
+changing header and footer
